@@ -1,6 +1,6 @@
 # Gamelet
 
-A starter program for writing js games.
+A starter program for writing js games
 
 ## Insallation
 
